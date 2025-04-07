@@ -5,8 +5,20 @@ Welcome to my GitHub repository! This repository contains the source code for a 
 ## #RO Descriere
 Această aplicație este scrisă în Python și este destinată să convertească textul într-un stil de litere mici (small caps). Aplicația este disponibilă **în limba română** și poate fi utilizată pentru a transforma rapid orice text într-un format de litere mici.
 
+### Font Minecraftia
+Pentru a beneficia de întreaga experiență vizuală a aplicației, vei avea nevoie de fontul **Minecraftia**. Poți să-l descarci de la următorul link:
+- [Descarcă fontul Minecraftia](https://www.dafont.com/minecraftia.font)
+
+După ce ai descărcat fontul, instalează-l pe sistemul tău pentru a putea vizualiza corect aplicația.
+
 ## #EN Description
 This application is written in Python and is designed to convert text into small caps style. The app is available **in Romanian** and can be used to quickly transform any text into small caps format.
+
+### Minecraftia Font
+To fully enjoy the visual experience of the app, you will need the **Minecraftia** font. You can download it from the following link:
+- [Download Minecraftia Font](https://www.dafont.com/minecraftia.font)
+
+After downloading the font, install it on your system to ensure the application displays correctly.
 
 ## Join My Discord Server
 You can join my Discord server to get help, share your thoughts, or just chat. Click the link below to join:
